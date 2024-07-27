@@ -1,0 +1,6 @@
+require('settings')
+require('hotkeys')
+require('plugins/packer')
+require('plugins/treesitter')
+require('plugins/nvim-tree')
+require('plugins/colorizer')
