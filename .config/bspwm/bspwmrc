@@ -8,7 +8,7 @@ polybar example &
 feh --bg-scale /home/caloway/Downloads/Fondos/wallpapersden.com_cool-red-mountains-4k_1920x1080.jpg &
 
 
-bspc monitor -d I II III IV V VI VII VIII IX
+bspc monitor -d 󰋜               
 
 bspc config border_width         2
 bspc config window_gap           10
